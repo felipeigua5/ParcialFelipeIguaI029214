@@ -78,13 +78,13 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Fecha de lanzamiento"
+                    android:text="Tiempo"
                     android:textStyle="bold"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Diciembre 20, 2018"
+                    android:text="1 hora 34 minutos"
                     android:textSize="13sp"/>
 
 
@@ -99,13 +99,13 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Director"
+                    android:text="Puntuación"
                     android:textStyle="bold"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Abraham Gooner"
+                    android:text="346 Criticas"
                     android:textSize="13sp"/>
 
 
